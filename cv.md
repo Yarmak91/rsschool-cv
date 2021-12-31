@@ -3,6 +3,7 @@
 ## 2.**Contacts:**
     *Deathapp1e49@gmail.com
     *DeathApple (telegram)
+    *Discord: Yarmak91#5578
 
 ## 3.**About myself:**
 I want to learn Front-End Development in RSSchool!
