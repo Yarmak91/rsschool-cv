@@ -9,6 +9,7 @@ I want to learn Front-End Development in RSSchool!
 
 ## 4.**Skills:**
     *HTML&CSS (novice)
+    *Git (studying now)
     
 ## 5.**Code example:**
 `<h1>Hello, World!</h1>`
